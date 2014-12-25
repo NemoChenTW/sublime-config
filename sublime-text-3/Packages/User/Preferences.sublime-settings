@@ -1,0 +1,21 @@
+{
+	"Seti_ClosedFolder_dots": true,
+	"Seti_ClosedFolder_remove": true,
+	"Seti_ClosedFolder_same": true,
+	"Seti_SB_big": true,
+	"Seti_SB_bright": true,
+	"Seti_SB_med": true,
+	"Seti_mouse_wheel_tabswitch": true,
+	"Seti_no_bar_undertabs": true,
+	"Seti_sb_big_padding": true,
+	"Seti_sb_small_padding": true,
+	"Seti_tabs_med": true,
+	"Seti_tabs_small": true,
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Seti.sublime-theme"
+}

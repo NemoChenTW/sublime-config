@@ -1,0 +1,332 @@
+{
+	"folder_history":
+	[
+		"/home/nemochen/git/PodriosCPP",
+		"/home/nemochen/git/PodriosCPP/src"
+	],
+	"last_version": 3065,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/nemochen/git/PodriosCPP/src/CardPlayer.h",
+					"settings":
+					{
+						"buffer_size": 409,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/nemochen/.config/sublime-text-3/Packages/Seti_UI/Seti.sublime-theme",
+					"settings":
+					{
+						"buffer_size": 32934,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/nemochen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 494,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"pcin",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 408.0
+			},
+			"console":
+			{
+				"height": 203.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/nemochen/git/PodriosCPP",
+				"/home/nemochen/git/PodriosCPP/src"
+			],
+			"file_history":
+			[
+				"/home/nemochen/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/nemochen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/nemochen/.config/sublime-text-3/Packages/Seti_UI/Seti.sublime-theme",
+				"/home/nemochen/git/PodriosCPP/src/Player.cpp",
+				"/home/nemochen/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/home/nemochen/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+				"/home/nemochen/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+				"/home/nemochen/git/PodriosCPP/README.md",
+				"/home/nemochen/git/PodriosCPP/makefile",
+				"/home/nemochen/git/PodriosCPP/LICENSE"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"size",
+					"icon",
+					"file",
+					"folder",
+					"color"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/nemochen/git/PodriosCPP"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/nemochen/git/PodriosCPP/src/CardPlayer.h",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 409,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										154,
+										154
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 279.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/nemochen/.config/sublime-text-3/Packages/Seti_UI/Seti.sublime-theme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32934,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										771,
+										771
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 558.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/nemochen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 494,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										494,
+										494
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 195.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1920,984",
+			"project": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 269.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
