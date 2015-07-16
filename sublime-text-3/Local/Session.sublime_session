@@ -1,14 +1,615 @@
 {
 	"folder_history":
 	[
+		"/home/nemochen/GoogleDrive/workspace/GateSystem",
+		"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager",
+		"/home/nemochen/GoogleDrive/workspace/RemoteScript",
+		"/home/nemochen/git/BridgePattern",
+		"/home/nemochen/GoogleDrive/workspace/GateSystem/c-build-tools",
+		"/home/nemochen/GoogleDrive/workspace/GateProject_Eclipse/GateProject/MCUSimulate",
+		"/home/nemochen/Google Drive/workspace/GateSystem",
+		"/home/nemochen/Google Drive/workspace/GateSystem/c-build-tools",
+		"/home/nemochen/Google Drive/workspace/GateSystem.test",
+		"/home/nemochen/Google Drive/workspace/GateSystem.cpy",
+		"/home/nemochen/workspace/GateSystem.cpy",
+		"/home/nemochen/Google Drive/workspace/RemoteScript",
+		"/home/nemochen/Google Drive/workspace/c-build-tools",
+		"/home/nemochen/Google Drive/workspace/GateSystem/src/PassengerLogical/c-build-tools",
+		"/home/nemochen/桌面/FareProcessingModule",
+		"/home/nemochen/桌面/PAM_XYSS_v308",
+		"/home/nemochen/桌面/Parameter",
+		"/home/nemochen/git/CodeTest",
+		"/home/nemochen/git/c-build-tools",
+		"/home/nemochen/git/sublime-config",
 		"/home/nemochen/git/PodriosCPP",
+		"/home/nemochen/TestZone/SubObj",
+		"/home/nemochen/TestZone/SubTest/src/SubObj",
+		"/home/nemochen/TestZone/SubTest",
+		"/home/nemochen/Submodule/submoduleTest",
+		"/home/nemochen/Submodule/submoduleTest/src",
+		"/home/nemochen/Submodule/submodule/src",
+		"/home/nemochen/git/Personal-git-config/Ubuntu_1404_LTS",
+		"/home/nemochen/Google Drive/workspace/BRTAFCSetting/Script",
+		"/home/nemochen/workspace/BRTAFCSetting/Script",
 		"/home/nemochen/git/PodriosCPP/src"
 	],
-	"last_version": 3065,
-	"last_window_id": 1,
+	"last_version": 3083,
+	"last_window_id": 58,
 	"log_indexing": false,
 	"settings":
 	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fo",
+						"forin	for … in … done"
+					],
+					[
+						"mak",
+						"makeCMD"
+					],
+					[
+						"m",
+						"makeCMD"
+					],
+					[
+						"el",
+						"elif	elif …"
+					],
+					[
+						"SS",
+						"sshIP"
+					],
+					[
+						"re",
+						"remoteCP"
+					],
+					[
+						"EX",
+						"EXTRACTVERSION_VER"
+					],
+					[
+						"sou",
+						"SOUCE_ELE"
+					],
+					[
+						"be",
+						"beacon"
+					],
+					[
+						"en",
+						"endl"
+					],
+					[
+						"ma",
+						"main	main()"
+					],
+					[
+						"SOU",
+						"SOUCE_ELE"
+					],
+					[
+						"SO",
+						"SOURCE_ELE"
+					],
+					[
+						"S",
+						"SOURCE_ELE"
+					],
+					[
+						"i",
+						"if	If Condition"
+					],
+					[
+						"cle",
+						"clean"
+					],
+					[
+						"TE",
+						"TESTO"
+					],
+					[
+						"e",
+						"else"
+					],
+					[
+						"if",
+						"ifeq"
+					],
+					[
+						"in",
+						"inc	#include \"…\""
+					],
+					[
+						"d",
+						"def	#ifndef … #define … #endif"
+					],
+					[
+						"ti",
+						"timeStamp"
+					],
+					[
+						"tim",
+						"timeStampDetail"
+					],
+					[
+						"t",
+						"timeStamp"
+					],
+					[
+						"file",
+						"file_path"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 127.0,
+				"last_filter": "Package Control: in",
+				"selected_items":
+				[
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pc in",
+						"Package Control: Install Package"
+					],
+					[
+						"pcin",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 203.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/src/include/UDProcessor.cpp",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/src/UDManager.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/src/UDManager.cpp",
+				"/home/nemochen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/c-build-tools/makefile",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Types/GateDataStructure.h",
+				"/home/nemochen/GoogleDrive/workspace/Test/GateSystem/src/Common/0001-ALL-UDManager.patch",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Types/GateDataStructure.h.rej",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Types/GateDataStructure.h.orig",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/a.patch",
+				"/home/nemochen/GoogleDrive/workspace/Test/GateSystem/.git/modules/src/Common/rebase-apply/patch",
+				"/home/nemochen/GoogleDrive/workspace/Test/GateSystem/.git/modules/src/Common/rebase-apply/0001",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/0001-ALL-UDManager.patch",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/.git/modules/src/Common/rebase-apply/patch",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Provider/ServiceProvider.cpp",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Provider/ServiceProvider.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Provider/DeviceProvider.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Types/GateDeviceDef.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/src/include/IUDProcessorAdapter.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/GateEMM/GateEMM.cpp",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/config/build.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/config/remote.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/config/source.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/include/build.command",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/build",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/auto.sh",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/upload",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/config/color.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/autoNemo.sh",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/include/upload.command",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/include/build.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/include/source.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/upload.command",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/upload.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/build.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/remote.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/source.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/make.sh",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/build.command",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/color.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/put.sh",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/rmFile",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/ARManager.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/xdr/xdr2_XDRBaseType.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/EODManager.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/ARTypeDef.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/MMIManager/BusinessMsgService.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/ReaderEventController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/Common/src/Common/Types/BusinessEnum.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/MMIManager/BusinessManager.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/TCUEventController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/PLCEventController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/ARManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/xdr/xdr2_mcnf.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/xdr/xdr2_gate.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/MMIManager/header/BusinessManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/TCL/include/ReaderAdapterDefs.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/ReaderControl.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/put.sh",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/makefile",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/sources.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/ReaderControl/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/ReaderControl/FEP/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/ReaderControl/Reader/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/ReaderControl/Ticket/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/FEP/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/RWChecker/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/Reader/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/Ticket/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/document/eclipse_config",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/libReaderManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderManager.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/ReaderControl.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/UDManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/FEP/FEPReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/RWChecker/RWChecker.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/RWChecker/RWChecker.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/BRTReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/PaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/UnPaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/header/BRTReader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/header/Reader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Ticket/PaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Ticket/TicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Ticket/UnPaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Ticket/header/TicketProcessor.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/RWChecker/RWChecker.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/GateController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/GateMaintainController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/header/PLCEventController.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/header/ReaderEventController.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/header/TCUEventController.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateEMM/GateEMM.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Ticket/header/TicketProcessor.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/PaidReader/PaidReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/UnPaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/PaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/BRTReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/FEP/FEPReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Ticket/UnPaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Ticket/TicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/header/BRTReader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/header/Reader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Ticket/PaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/UDManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/PaidReader/header/Apicscdll.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/UnPaidReader/header/Apicscdll.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/Common/src/Common/Types/GateDataStructure.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/header/GateController.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/PaidReader/header/PaidReader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ParametersManager/header/UDManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ParametersManager/UDManager.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/Reader/header/Reader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/header/ReaderControl.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/Ticket/header/TicketProcessor.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/Ticket/UnPaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/Ticket/TicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/Ticket/PaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/Reader/header/BRTReader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/Reader/UnPaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/Reader/PaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/Reader/BRTReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/src/FEP/FEPReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl/project.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem.cpy/SPSInterface/header/SPSCmdTagNameSet.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem.cpy/GateEMM/header/GateStatus.h"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 129.0,
+				"where_history":
+				[
+					"",
+					"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/TCL",
+					"",
+					"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"msg.message",
+					"alarmMsg",
+					"Operating",
+					"doServiceStart",
+					"doServiceWaiting",
+					"doServiceReady",
+					"initial",
+					"start",
+					"status",
+					"this",
+					"this.",
+					"upload.config",
+					"rmCMD",
+					"remoteRM",
+					"rmCMD",
+					"rmcmd",
+					"localDir",
+					"targetDir",
+					"remote",
+					"trackFile",
+					"writeInstantUD",
+					"getNbEntryCredit",
+					"LOG_CHECK",
+					"credit",
+					"tpData->",
+					"m_TP_result",
+					"EventHandler *",
+					"return BRTReaderControl_Ptr->freeProcessingReader();",
+					"AuditRegisterCardType",
+					"define TCL_VER",
+					"FILE_HEADER_EOD_PSPBLK2",
+					"int*AuditRegisterCardType::MAX_AR_CARD_NUM)",
+					"MSG_HEADER_EOD_FREE_FOR_MACHINE",
+					"MSG_HEADER_EOD_PSPBLK2",
+					"[AuditRegisterCardType::MAX_AR_CARD_NUM]",
+					"for (int j =0; j < AuditRegisterCardType::MAX_AR_CARD_NUM +1; j++) {",
+					"cardType",
+					"updateARMap[arID].arData[cardType].offset = it->second.arData[cardType].offset;",
+					"AuditRegisterData arData[AuditRegisterCardType::MAX_AR_CARD_NUM];",
+					"AuditRegisterCardType::MAX_AR_CARD_NUM",
+					"AuditRegisterCardType::MAX_AR_CARD_NUM;",
+					"AuditRegisterCardType::MAX_AR_CARD_NUM",
+					"MAX_AR_CARD_NUM",
+					"status.mode = BusinessMode:INITIAL;",
+					"status.mode = INITIAL;",
+					"errorMessage.mode = GATE_ERROR;",
+					"NO_ACCEPT_TOKEN :STAND_BY",
+					"LIVE_MESSAGE",
+					"return IN_INVALID_TICKET",
+					"return ",
+					"case Trade_DeductOK",
+					"(MMIStatus == OUT_TICKET_TRY_AGAIN)",
+					"(rejectMMI == IN_TICKET_TRY_AGAIN)",
+					"bizMMIManager->sendTxnStatus(BusinessMode::MMIStatus, transMsg);",
+					"sendWarningStatus",
+					"sendTxnStatus",
+					"IN_SINGLE_JOURNEY",
+					"sendWrongStatus",
+					"OUT_NORMAL_INTRUSION",
+					"IN_NORMAL_INTRUSION",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"MSG_HEADER_AUDIT_REGISTER_FETC",
+					"MSG_HEADER_AUDIT_REGISTER_TWSC",
+					"MSG_HEADER_AUDIT_REGISTER_KRTC",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"MSG_HEADER_AUDIT_REGISTER_KRTC",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"AuditRegisterCardType",
+					"AuditRegisterID",
+					"HLL_NUMBER_OF_CSC_READ",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"xdr2_XDRBaseType.h",
+					"XDRBaseType.h",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"GATE_TB_CSC_EX_Transaction_t",
+					"GATE_TB_CSC_CM15_EX_Transaction_t",
+					"AR_PERIODIC 0",
+					"ReadURT",
+					"GATE_TB_CSC",
+					"GATE_TB_CSC_CM15_EX_Transaction_t",
+					"gate.h",
+					"write_urt",
+					"write_urt and reade_urt",
+					"return ",
+					"BusinessMode::rejectMMI",
+					"rejectMMI",
+					"bizMMIManager->sendTxnStatus(",
+					"sendWarningStatus(BusinessMode::BusinessMode,",
+					"sendWarningStatus(",
+					"sendWarningStatus",
+					"sendWrongStatus",
+					"EMERGENCY",
+					"BRTReaderControl_H_",
+					"ReaderControl",
+					"BRTReaderControl_H_",
+					"ReaderControl",
+					"#include \"ReaderControl",
+					"#include \"ReaderControl/header/CscType.h\"",
+					"#include \"ReaderControl/header/ReaderDef.h\"",
+					"#include \"ReaderControl/RWChecker/RWChecker.h\"",
+					"#include \"ReaderControl/Reader/header/BRTReader.h\"",
+					"ReaderControl/Reader/header/BRTReader.h",
+					"ReaderControl",
+					"#include \"ReaderControl/Reader/header/BRTReader.h\"",
+					"ReaderControl/Reader/header/BRTReader.h",
+					"			\n",
+					");",
+					";",
+					"0",
+					";",
+					"新增",
+					"()",
+					"+	",
+					"ReaderControl",
+					"#include \"ReaderManager/libReaderControl.h\"",
+					"#include \"ReaderControl/header/ReaderControl.h\"",
+					"ReaderControl/header/ReaderControl.h",
+					"CscType.h",
+					"ReaderManager/llibReaderManager.h",
+					"ReaderControl/header/ReaderControl.h",
+					"#include \"ReaderControl/header/ReaderControl.h\"",
+					"ReaderControl/header/ReaderControl.h",
+					"ReaderControl",
+					"\"ReaderControl/",
+					" ReaderControl/",
+					"ReaderControl/header/CscType.h",
+					"ReaderControl/header/ReaderControl.h",
+					"class ReaderControl;"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"data.m_TP_Output.",
+					"defined TCL_VER",
+					"[int*AuditRegisterCardType::MAX_AR_CARD_NUM)]",
+					"int(AuditRegisterCardType::MAX_AR_CARD_NUM);",
+					"AuditRegisterCardType::MAX_AR_CARD_NUM",
+					"return BusinessMode::",
+					"bizMMIManager->sendTxnStatus(MMIStatus, transMsg);",
+					"BusinessMode::IN_NORMAL_INTRUSION",
+					"return BusinessMode::",
+					"rejectMMI",
+					"bizMMIManager->sendTxnStatus(BusinessMode::",
+					"sendWarningStatus(BusinessMode,",
+					"sendWarningStatus(BusinessMode::",
+					"BRTREADERCONTROL_H_",
+					"BRTReaderControl",
+					"BRTREADERCONTROL_H_",
+					"BRTReaderControl",
+					"#include \"BRT/ReaderControl",
+					"#include \"BRT/ReaderControl/header/CscType.h\"",
+					"#include \"BRT/ReaderControl/header/ReaderDef.h\"",
+					"#include \"BRT/ReaderControl/RWChecker/RWChecker.h\"",
+					"#include \"BRT/ReaderControl/Reader/header/BRTReader.h\"",
+					"修改",
+					"(0) ",
+					"新增 ",
+					"",
+					"#include \"ReaderManager/libReaderManager.h\"",
+					"#include \"ReaderManager/libReaderControl.h\"",
+					"ReaderManager/libReaderManager.h",
+					"#include \"ReaderManager/llibReaderManager.h\"",
+					"\"ReaderManager/src/ReaderControl/",
+					"ReaderManager/src/ReaderControl/header/ReaderControl.h",
+					"\"ReaderManager/libReaderManager.h\"",
+					"memCheck",
+					"memUsage",
+					"source.mk",
+					"sourcelist",
+					"submoduleResult",
+					"rootPath",
+					"SLISTSUBDIRS",
+					"slist",
+					"sub",
+					"submods",
+					"SOURCEPATH",
+					"$SUBDIR",
+					"CC_LIBA",
+					"LIB_O",
+					"LIB_A",
+					"LIBO",
+					"LIBA",
+					"CCLIBA",
+					"CCSTLIB",
+					"SOURCEPATH",
+					"SOUECEPATH",
+					"SUBLIB",
+					"update1.1.12.sh",
+					"FIND",
+					"FINDFILE"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 176.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 74.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 281.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
 	},
 	"windows":
 	[
@@ -17,47 +618,184 @@
 			{
 				"selected_items":
 				[
+					[
+						"fo",
+						"forin	for … in … done"
+					],
+					[
+						"mak",
+						"makeCMD"
+					],
+					[
+						"m",
+						"makeCMD"
+					],
+					[
+						"el",
+						"elif	elif …"
+					],
+					[
+						"SS",
+						"sshIP"
+					],
+					[
+						"re",
+						"remoteCP"
+					],
+					[
+						"EX",
+						"EXTRACTVERSION_VER"
+					],
+					[
+						"sou",
+						"SOUCE_ELE"
+					],
+					[
+						"be",
+						"beacon"
+					],
+					[
+						"en",
+						"endl"
+					],
+					[
+						"ma",
+						"main	main()"
+					],
+					[
+						"SOU",
+						"SOUCE_ELE"
+					],
+					[
+						"SO",
+						"SOURCE_ELE"
+					],
+					[
+						"S",
+						"SOURCE_ELE"
+					],
+					[
+						"i",
+						"if	If Condition"
+					],
+					[
+						"cle",
+						"clean"
+					],
+					[
+						"TE",
+						"TESTO"
+					],
+					[
+						"e",
+						"else"
+					],
+					[
+						"if",
+						"ifeq"
+					],
+					[
+						"in",
+						"inc	#include \"…\""
+					],
+					[
+						"d",
+						"def	#ifndef … #define … #endif"
+					],
+					[
+						"ti",
+						"timeStamp"
+					],
+					[
+						"tim",
+						"timeStampDetail"
+					],
+					[
+						"t",
+						"timeStamp"
+					],
+					[
+						"file",
+						"file_path"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/nemochen/git/PodriosCPP/src/CardPlayer.h",
+					"file": "/home/nemochen/RemoteCompile/Reader.log",
 					"settings":
 					{
-						"buffer_size": 409,
+						"buffer_size": 84441,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/home/nemochen/.config/sublime-text-3/Packages/Seti_UI/Seti.sublime-theme",
+					"file": "/home/nemochen/RemoteCompile/APP_LOG",
 					"settings":
 					{
-						"buffer_size": 32934,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/nemochen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 494,
+						"buffer_size": 25460,
 						"line_ending": "Unix"
 					}
 				}
 			],
 			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
+				"height": 106.0,
+				"last_filter": "instal",
 				"selected_items":
 				[
 					[
-						"pcin",
+						"instal",
 						"Package Control: Install Package"
 					],
 					[
+						"th",
+						"Themr: Toggle Theme Settings"
+					],
+					[
+						"themr to",
+						"Themr: Toggle Theme Settings"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Channel"
+					],
+					[
 						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pc in",
+						"Package Control: Install Package"
+					],
+					[
+						"pcin",
 						"Package Control: Install Package"
 					]
 				],
@@ -80,33 +818,151 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/nemochen/git/PodriosCPP",
-				"/home/nemochen/git/PodriosCPP/src"
-			],
 			"file_history":
 			[
-				"/home/nemochen/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/nemochen/RemoteCompile/Reader",
+				"/home/nemochen/RemoteCompile/Reader.log",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/ReaderManager/src/BRT/TCLReaderControl.cpp",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Event/ReaderEvent.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/ReaderManager/src/BRT/include/output_data.hpp",
 				"/home/nemochen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/ReaderManager/src/BRT/TCLReaderControl.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/src/include/UDProcessor.cpp",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/ReaderManager/src/ReaderManager.h",
 				"/home/nemochen/.config/sublime-text-3/Packages/Seti_UI/Seti.sublime-theme",
-				"/home/nemochen/git/PodriosCPP/src/Player.cpp",
+				"/home/nemochen/.config/sublime-text-3/Packages/Seti_UI/Seti_orig.sublime-theme",
+				"/home/nemochen/.config/sublime-text-3/Packages/Seti_UI/Scheme/Seti.tmTheme",
 				"/home/nemochen/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/home/nemochen/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
-				"/home/nemochen/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
-				"/home/nemochen/git/PodriosCPP/README.md",
-				"/home/nemochen/git/PodriosCPP/makefile",
-				"/home/nemochen/git/PodriosCPP/LICENSE"
+				"/home/nemochen/.config/sublime-text-3/Packages/User/ThemrFavorites.sublime-settings",
+				"/home/nemochen/.config/sublime-text-3/Packages/Themr/ThemrFavorites.sublime-settings",
+				"/home/nemochen/.config/sublime-text-3/Installed Packages/Seti.tmTheme",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/src/UDManager.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/src/UDManager.cpp",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/c-build-tools/makefile",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Types/GateDataStructure.h",
+				"/home/nemochen/GoogleDrive/workspace/Test/GateSystem/src/Common/0001-ALL-UDManager.patch",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Types/GateDataStructure.h.rej",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Types/GateDataStructure.h.orig",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/a.patch",
+				"/home/nemochen/GoogleDrive/workspace/Test/GateSystem/.git/modules/src/Common/rebase-apply/patch",
+				"/home/nemochen/GoogleDrive/workspace/Test/GateSystem/.git/modules/src/Common/rebase-apply/0001",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/0001-ALL-UDManager.patch",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/.git/modules/src/Common/rebase-apply/patch",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Provider/ServiceProvider.cpp",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Provider/ServiceProvider.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Provider/DeviceProvider.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/Common/src/Common/Types/GateDeviceDef.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/UDManager/src/include/IUDProcessorAdapter.h",
+				"/home/nemochen/GoogleDrive/workspace/GateSystem/src/GateEMM/GateEMM.cpp",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/config/build.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/config/remote.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/config/source.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/include/build.command",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/build",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/auto.sh",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/upload",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/config/color.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/autoNemo.sh",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/include/upload.command",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/include/build.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/include/source.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/upload.command",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/upload.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/build.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/remote.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/source.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/make.sh",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/build.command",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/color.config",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/put.sh",
+				"/home/nemochen/GoogleDrive/workspace/RemoteScript/rmFile",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/ARManager.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/xdr/xdr2_XDRBaseType.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/EODManager.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/ARTypeDef.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/MMIManager/BusinessMsgService.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/ReaderEventController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/Common/src/Common/Types/BusinessEnum.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/MMIManager/BusinessManager.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/TCUEventController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/PLCEventController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/ARManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/xdr/xdr2_mcnf.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/xdr/xdr2_gate.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/MMIManager/header/BusinessManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/TCL/include/ReaderAdapterDefs.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/ReaderControl.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/put.sh",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/makefile",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/sources.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/ReaderControl/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/ReaderControl/FEP/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/ReaderControl/Reader/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/ReaderControl/Ticket/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/FEP/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/RWChecker/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/Reader/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/Debug/src/ReaderManager/src/ReaderControl/Ticket/subdir.mk",
+				"/home/nemochen/Google Drive/workspace/GateSystem/document/eclipse_config",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/libReaderManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderManager.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/ReaderControl.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/UDManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/FEP/FEPReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/RWChecker/RWChecker.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/RWChecker/RWChecker.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/BRTReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/PaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/UnPaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/header/BRTReader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Reader/header/Reader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Ticket/PaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Ticket/TicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Ticket/UnPaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/BRT/ReaderControl/Ticket/header/TicketProcessor.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/RWChecker/RWChecker.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/GateController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/GateMaintainController.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/header/PLCEventController.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/header/ReaderEventController.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/header/TCUEventController.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateEMM/GateEMM.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Ticket/header/TicketProcessor.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/PaidReader/PaidReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/UnPaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/PaidAreaReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/BRTReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/FEP/FEPReader.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Ticket/UnPaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Ticket/TicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/header/BRTReader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Reader/header/Reader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/ReaderControl/Ticket/PaidTicketProcessor.cpp",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/ParametersManager/header/UDManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/PaidReader/header/Apicscdll.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/UnPaidReader/header/Apicscdll.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/Common/src/Common/Types/GateDataStructure.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/GateController/header/GateController.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem/src/PaidReader/header/PaidReader.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ParametersManager/header/UDManager.h",
+				"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ParametersManager/UDManager.cpp"
 			],
 			"find":
 			{
-				"height": 39.0
+				"height": 35.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 129.0,
 				"where_history":
 				[
+					"",
+					"/home/nemochen/Google Drive/workspace/GateSystem/src/ReaderManager/src/TCL",
+					"",
+					"/home/nemochen/Google Drive/workspace/GateSystem.test/src/ReaderControl",
+					""
 				]
 			},
 			"find_state":
@@ -114,11 +970,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"size",
+					"@@@@@@@@@@@@@@@@@@@&&&&&&&&&&&&&&&&&&@@@@@@@@@@@@@@@@@@@",
+					"waitForTokenReading",
+					"isInternal",
+					"TP_Output_t",
+					"OutputData_t",
+					"TicketProcessResult",
+					"side bar",
 					"icon",
-					"file",
-					"folder",
-					"color"
+					"font",
+					"font.size",
+					"font size",
+					"size",
+					"C++",
+					"C++\n",
+					"font",
+					"Assignment",
+					"class",
+					"structure",
+					"parameters",
+					"param",
+					"E_TT_Result_t",
+					"msg.message",
+					"alarmMsg",
+					"Operating",
+					"doServiceStart",
+					"doServiceWaiting",
+					"doServiceReady",
+					"initial",
+					"start",
+					"status",
+					"this",
+					"this.",
+					"upload.config",
+					"rmCMD",
+					"remoteRM",
+					"rmCMD",
+					"rmcmd",
+					"localDir",
+					"targetDir",
+					"remote",
+					"trackFile",
+					"writeInstantUD",
+					"getNbEntryCredit",
+					"LOG_CHECK",
+					"credit",
+					"tpData->",
+					"m_TP_result",
+					"EventHandler *",
+					"return BRTReaderControl_Ptr->freeProcessingReader();",
+					"AuditRegisterCardType",
+					"define TCL_VER",
+					"FILE_HEADER_EOD_PSPBLK2",
+					"int*AuditRegisterCardType::MAX_AR_CARD_NUM)",
+					"MSG_HEADER_EOD_FREE_FOR_MACHINE",
+					"MSG_HEADER_EOD_PSPBLK2",
+					"[AuditRegisterCardType::MAX_AR_CARD_NUM]",
+					"for (int j =0; j < AuditRegisterCardType::MAX_AR_CARD_NUM +1; j++) {",
+					"cardType",
+					"updateARMap[arID].arData[cardType].offset = it->second.arData[cardType].offset;",
+					"AuditRegisterData arData[AuditRegisterCardType::MAX_AR_CARD_NUM];",
+					"AuditRegisterCardType::MAX_AR_CARD_NUM",
+					"AuditRegisterCardType::MAX_AR_CARD_NUM;",
+					"AuditRegisterCardType::MAX_AR_CARD_NUM",
+					"MAX_AR_CARD_NUM",
+					"status.mode = BusinessMode:INITIAL;",
+					"status.mode = INITIAL;",
+					"errorMessage.mode = GATE_ERROR;",
+					"NO_ACCEPT_TOKEN :STAND_BY",
+					"LIVE_MESSAGE",
+					"return IN_INVALID_TICKET",
+					"return ",
+					"case Trade_DeductOK",
+					"(MMIStatus == OUT_TICKET_TRY_AGAIN)",
+					"(rejectMMI == IN_TICKET_TRY_AGAIN)",
+					"bizMMIManager->sendTxnStatus(BusinessMode::MMIStatus, transMsg);",
+					"sendWarningStatus",
+					"sendTxnStatus",
+					"IN_SINGLE_JOURNEY",
+					"sendWrongStatus",
+					"OUT_NORMAL_INTRUSION",
+					"IN_NORMAL_INTRUSION",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"MSG_HEADER_AUDIT_REGISTER_FETC",
+					"MSG_HEADER_AUDIT_REGISTER_TWSC",
+					"MSG_HEADER_AUDIT_REGISTER_KRTC",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"MSG_HEADER_AUDIT_REGISTER_KRTC",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"AuditRegisterCardType",
+					"AuditRegisterID",
+					"HLL_NUMBER_OF_CSC_READ",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"xdr2_XDRBaseType.h",
+					"XDRBaseType.h",
+					"MSG_HEADER_AUDIT_REGISTER",
+					"GATE_TB_CSC_EX_Transaction_t",
+					"GATE_TB_CSC_CM15_EX_Transaction_t",
+					"AR_PERIODIC 0",
+					"ReadURT",
+					"GATE_TB_CSC",
+					"GATE_TB_CSC_CM15_EX_Transaction_t",
+					"gate.h",
+					"write_urt",
+					"write_urt and reade_urt",
+					"return ",
+					"BusinessMode::rejectMMI",
+					"rejectMMI",
+					"bizMMIManager->sendTxnStatus(",
+					"sendWarningStatus(BusinessMode::BusinessMode,",
+					"sendWarningStatus(",
+					"sendWarningStatus",
+					"sendWrongStatus",
+					"EMERGENCY",
+					"BRTReaderControl_H_",
+					"ReaderControl",
+					"BRTReaderControl_H_",
+					"ReaderControl",
+					"#include \"ReaderControl",
+					"#include \"ReaderControl/header/CscType.h\"",
+					"#include \"ReaderControl/header/ReaderDef.h\"",
+					"#include \"ReaderControl/RWChecker/RWChecker.h\"",
+					"#include \"ReaderControl/Reader/header/BRTReader.h\"",
+					"ReaderControl/Reader/header/BRTReader.h",
+					"ReaderControl",
+					"#include \"ReaderControl/Reader/header/BRTReader.h\"",
+					"ReaderControl/Reader/header/BRTReader.h",
+					"			\n",
+					");"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -126,6 +1105,64 @@
 				"regex": false,
 				"replace_history":
 				[
+					"data.m_TP_Output.",
+					"defined TCL_VER",
+					"[int*AuditRegisterCardType::MAX_AR_CARD_NUM)]",
+					"int(AuditRegisterCardType::MAX_AR_CARD_NUM);",
+					"AuditRegisterCardType::MAX_AR_CARD_NUM",
+					"return BusinessMode::",
+					"bizMMIManager->sendTxnStatus(MMIStatus, transMsg);",
+					"BusinessMode::IN_NORMAL_INTRUSION",
+					"return BusinessMode::",
+					"rejectMMI",
+					"bizMMIManager->sendTxnStatus(BusinessMode::",
+					"sendWarningStatus(BusinessMode,",
+					"sendWarningStatus(BusinessMode::",
+					"BRTREADERCONTROL_H_",
+					"BRTReaderControl",
+					"BRTREADERCONTROL_H_",
+					"BRTReaderControl",
+					"#include \"BRT/ReaderControl",
+					"#include \"BRT/ReaderControl/header/CscType.h\"",
+					"#include \"BRT/ReaderControl/header/ReaderDef.h\"",
+					"#include \"BRT/ReaderControl/RWChecker/RWChecker.h\"",
+					"#include \"BRT/ReaderControl/Reader/header/BRTReader.h\"",
+					"修改",
+					"(0) ",
+					"新增 ",
+					"",
+					"#include \"ReaderManager/libReaderManager.h\"",
+					"#include \"ReaderManager/libReaderControl.h\"",
+					"ReaderManager/libReaderManager.h",
+					"#include \"ReaderManager/llibReaderManager.h\"",
+					"\"ReaderManager/src/ReaderControl/",
+					"ReaderManager/src/ReaderControl/header/ReaderControl.h",
+					"\"ReaderManager/libReaderManager.h\"",
+					"memCheck",
+					"memUsage",
+					"source.mk",
+					"sourcelist",
+					"submoduleResult",
+					"rootPath",
+					"SLISTSUBDIRS",
+					"slist",
+					"sub",
+					"submods",
+					"SOURCEPATH",
+					"$SUBDIR",
+					"CC_LIBA",
+					"LIB_O",
+					"LIB_A",
+					"LIBO",
+					"LIBA",
+					"CCLIBA",
+					"CCSTLIB",
+					"SOURCEPATH",
+					"SOUECEPATH",
+					"SUBLIB",
+					"update1.1.12.sh",
+					"FIND",
+					"FINDFILE"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -133,13 +1170,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/home/nemochen/git/PodriosCPP"
-				}
-			],
 			"groups":
 			[
 				{
@@ -148,27 +1178,88 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/nemochen/git/PodriosCPP/src/CardPlayer.h",
-							"semi_transient": true,
+							"file": "/home/nemochen/RemoteCompile/Reader.log",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 409,
+								"buffer_size": 84441,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										154,
-										154
+										84441,
+										84441
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/C++/C++.tmLanguage"
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4
 								},
 								"translation.x": 0.0,
-								"translation.y": 279.0,
+								"translation.y": 71675.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -176,61 +1267,90 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/nemochen/.config/sublime-text-3/Packages/Seti_UI/Seti.sublime-theme",
+							"file": "/home/nemochen/RemoteCompile/APP_LOG",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 32934,
+								"buffer_size": 25460,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										771,
-										771
+										23387,
+										23387
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 558.0,
+								"translation.y": 6600.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/nemochen/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 494,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										494,
-										494
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -238,11 +1358,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 39.0
+				"height": 33.0
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 46.0
 			},
 			"layout":
 			{
@@ -269,22 +1389,24 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 195.0
+				"height": 176.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"position": "0,1,0,0,0,0,0,0,0,1920,984",
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,1280,24,1920,476,1920,984",
 			"project": "",
 			"replace":
 			{
-				"height": 74.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -293,6 +1415,7 @@
 			"select_project":
 			{
 				"height": 500.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -301,6 +1424,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -314,12 +1438,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 269.0,
+			"side_bar_width": 324.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 58,
 			"workspace_name": ""
 		}
 	],
@@ -327,6 +1451,7 @@
 	{
 		"recent_workspaces":
 		[
+			"/home/nemochen/.config/sublime-text-3/Packages/User/PodriosCPP.sublime-workspace"
 		]
 	}
 }
