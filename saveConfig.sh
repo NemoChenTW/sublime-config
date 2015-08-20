@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cp -pr 	~/.config/sublime-text-3 ./
+cp -pr 	~/.config/sublime-text-3/Packages/User ./
 
